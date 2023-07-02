@@ -1,6 +1,6 @@
 [
 {
-"link":"https://rubika.ir/Edward_Ok",
+"link":"https://rubika.ir/Edward_",
 "about":"اینجا محل تبلیغ شماست!
 جهت ثبت تبلیغ خود با سازنده در روبیکا در ارتباط باشید",
 "baton":"ارتباط با ما",
